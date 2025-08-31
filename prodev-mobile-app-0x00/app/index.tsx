@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>Hello </Text>
+      <Text>Hello </Text>
     </View>
   );
 }
